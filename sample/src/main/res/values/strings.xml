@@ -23,5 +23,5 @@
   -->
 
 <resources>
-  <string name="app_name">Reactive Progress Dialog</string>
+    <string name="app_name">Reactive Progress Dialog</string>
 </resources>
