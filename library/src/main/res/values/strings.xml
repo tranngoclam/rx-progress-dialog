@@ -23,6 +23,6 @@
   -->
 
 <resources>
-  <string name="app_name">rx-progress-dialog</string>
-  <string name="loading">Loading…</string>
+    <string name="app_name">rx-progress-dialog</string>
+    <string name="loading">Loading…</string>
 </resources>
